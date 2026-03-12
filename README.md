@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Owais Shaikh</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;AI+Developer;Building+AI+for+Infrastructure;Founder+Engineer+@+Nanneer+Global&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;AI+Developer;Building+AI+for+Infrastructure;Founding+Engineer+@+Nanneer+Global&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -52,6 +52,14 @@ Computer vision, NLP pipelines, and intelligent alert systems.
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=owaishaik&theme=tokyonight"/>
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owaishaik&layout=compact&theme=tokyonight&langs_count=8"/>
 </p>
 
 ---
