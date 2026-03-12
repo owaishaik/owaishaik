@@ -1,31 +1,108 @@
-# Hi 👋 I'm Owais
+<h1 align="center">Hi 👋, I'm Owais Shaikh</h1>
 
-🚀 Backend Engineer | AI Developer  
-💧 Founder at Nanneer Global  
-🎓 IIT Madras - Data Science  
+<p align="center">
+Backend & AI Engineer | Building intelligent infrastructure systems
+</p>
+
+<p align="center">
+🎓 IIT Madras – Data Science & Applications <br>
+💧 Founding Engineer @ Nanneer Global <br>
+🤖 Building AI systems for real-world infrastructure
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Backend and AI Engineer** passionate about building intelligent systems that solve real-world problems.
+
+Currently I work as a **Founding Engineer at Nanneer Global**, where I lead backend and AI development for **Water Wiser**, a SaaS platform that acts as a digital twin for industrial water and utility infrastructure.
+
+My work focuses on building scalable backend architectures and applying AI in practical environments such as pumps, membrane systems, and treatment plants.
+
+I also collaborate on applied AI research with **AI4Bharat at IIT Madras**, contributing to multilingual AI systems and speech translation projects.
+
+---
+
+## 🚀 What I'm Working On
+
+💧 **Water Wiser**  
+AI-powered SaaS platform for monitoring industrial water systems.
+
+🤖 **AI Agents for Infrastructure**  
+RAG-based AI agents that diagnose issues in water treatment plants.
+
+📊 **Digital Twins for Treatment Plants**  
+Monitoring RO, UF, STP, pumps, and water balance systems.
+
+🧠 **Applied AI Systems**  
+Computer vision, NLP pipelines, and intelligent alert systems.
 
 ---
 
 ## ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,postgres,azure,docker,react" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,python,postgres,azure,docker,react,git,tensorflow,sklearn,linux" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=owaishaik&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owaishaik&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![streak](https://streak-stats.demolab.com/?user=USERNAME&theme=radical)
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=owaishaik&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Contribution Graph
 
-- LinkedIn
-- Portfolio
-- Twitter
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=owaishaik&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🧠 Areas of Interest
+
+- AI Agents
+- Retrieval Augmented Generation (RAG)
+- Backend Systems & Microservices
+- Industrial AI
+- Digital Twins
+- Infrastructure Monitoring
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/owais-shaikh-nanneer-global/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:owaishaikh@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⚡ "Turning real-world infrastructure into intelligent systems."
+</p>
