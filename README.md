@@ -86,12 +86,6 @@ Computer vision, NLP pipelines, and intelligent alert systems.
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🧠 Areas of Interest
 
 - AI Agents
