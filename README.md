@@ -57,24 +57,15 @@ Computer vision, NLP pipelines, and intelligent alert systems.
 <img src="https://skillicons.dev/icons?i=python,sklearn" />
 </p>
 
-Libraries & Tools:  
-LangChain • PydanticAI • RAG • NL2SQL • Pandas • NumPy • Matplotlib
-
 ### 🗄️ Databases & Messaging
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,redis" />
 </p>
 
-Tools:  
-Sequelize • BullMQ • Celery • WebSockets
-
 ### ☁️ DevOps & Cloud
 <p>
 <img src="https://skillicons.dev/icons?i=docker,azure,githubactions" />
 </p>
-
-Services:  
-Azure Container Apps • App Services • Container Registry • CI/CD • Microservices
 
 ---
 
