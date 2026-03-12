@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Owais Shaikh</h1>
 
 <p align="center">
-Backend & AI Engineer | Building intelligent infrastructure systems
-</p>
-
-<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;AI+Developer;Building+AI+for+Infrastructure;Founder+Engineer+@+Nanneer+Global&center=true&width=500&height=45">
 </p>
 
@@ -65,6 +61,7 @@ Computer vision, NLP pipelines, and intelligent alert systems.
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=owaishaik&theme=tokyo-night"/>
 </p>
+![Snake animation](https://github.com/owaishaik/owaishaik/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
