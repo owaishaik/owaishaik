@@ -5,6 +5,10 @@ Backend & AI Engineer | Building intelligent infrastructure systems
 </p>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;AI+Developer;Building+AI+for+Infrastructure;Founder+Engineer+@+Nanneer+Global&center=true&width=500&height=45">
+</p>
+
+<p align="center">
 🎓 IIT Madras – Data Science & Applications <br>
 💧 Founding Engineer @ Nanneer Global <br>
 🤖 Building AI systems for real-world infrastructure
@@ -44,18 +48,6 @@ Computer vision, NLP pipelines, and intelligent alert systems.
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,python,postgres,azure,docker,react,git,tensorflow,sklearn,linux" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=owaishaik&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owaishaik&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
