@@ -60,8 +60,8 @@ Computer vision, NLP pipelines, and intelligent alert systems.
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=owaishaik&theme=tokyo-night"/>
+![snake gif](https://github.com/owaishaik/owaishaik/blob/output/github-contribution-grid-snake.svg)
 </p>
-![Snake animation](https://github.com/owaishaik/owaishaik/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
