@@ -42,13 +42,43 @@ Computer vision, NLP pipelines, and intelligent alert systems.
 
 ## ⚡ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,python,postgres,azure,docker,react,git,tensorflow,sklearn,linux" />
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js" />
 </p>
+
+### ⚙️ Backend & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,flask,react,vue" />
+</p>
+
+### 🧠 AI / Data
+<p>
+<img src="https://skillicons.dev/icons?i=python,sklearn" />
+</p>
+
+Libraries & Tools:  
+LangChain • PydanticAI • RAG • NL2SQL • Pandas • NumPy • Matplotlib
+
+### 🗄️ Databases & Messaging
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,redis" />
+</p>
+
+Tools:  
+Sequelize • BullMQ • Celery • WebSockets
+
+### ☁️ DevOps & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=docker,azure,githubactions" />
+</p>
+
+Services:  
+Azure Container Apps • App Services • Container Registry • CI/CD • Microservices
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Stats
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=owaishaik&theme=tokyonight"/>
