@@ -52,13 +52,6 @@ Computer vision, NLP pipelines, and intelligent alert systems.
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=owaishaik&theme=tokyonight"/>
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owaishaik&layout=compact&theme=tokyonight&langs_count=8"/>
 </p>
 
